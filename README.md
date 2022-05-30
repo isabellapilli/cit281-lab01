@@ -23,8 +23,8 @@ I was introduced to VS Code and downloaded different extentions such as Prettier
 
 ### Screenshots from Lab 1!
 
-[ss1](lab-01-folders.png)
-[ss2](lab-01-folder.txt)
 [ss3](lab-01-node.js)
 [ss4](lab-01-node.png)
 [ss5](lab-01-shortcuts.txt)
+[ss1](lab-01-folders.png)
+[ss2](lab-01-folder.txt)
