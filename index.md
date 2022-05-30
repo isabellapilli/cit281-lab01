@@ -18,7 +18,7 @@ Lab Goals and Outcomes:
 - Git
 - Node.js and included npm
 
-### What I learned:
+### What I Learned:
 I was introduced to VS Code and downloaded different extentions such as Prettier, ESLint, and GitHub Pull Requests and Issues. I downloaded and installed Node.js which included Node Package Manager, git, and Postman. I also navigated through Terminal in order to understand how to create directories, folders, files, and how to list and figure out where I was in my directory. In this lab I was also able to create my first Node Server-Side JavaScript File and execute it from the VS Code Terminal!
 
 ### Screenshots from Lab 1!
